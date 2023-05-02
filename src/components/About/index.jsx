@@ -41,10 +41,10 @@ export default function About() {
     >
       <SectionHeader title="about" />
       <p ref={ref} id="headline" className={cn({ "is-reveal": reveal })}>
-        Flirty Flowers is a blog about flowers and the floral designers who make
-        them into art. Creativity and the art of ‘making’ require dialogue. The
-        full purpose of the Flirty Flowers blog is to encourage and inspire. We
-        value art, we value insight, and we value opinion.
+        we are wedding photography vendor based in bogor. hope you will enjoy
+        working with us. we will help you to find your best kind of photo trough
+        'mamala experience'. hope we can work togeher on your special day. have
+        a great 'mamala experience' with us
       </p>
     </section>
   );
